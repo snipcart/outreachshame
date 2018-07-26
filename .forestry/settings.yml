@@ -7,8 +7,8 @@ sections:
 - path: content
   label: Pages
   create: all
-- path: content/posts
-  label: Posts
+- path: content/post
+  label: Post
   create: all
 upload_dir: static/uploads
 public_path: "/uploads"

@@ -1,7 +1,7 @@
 ---
 label: eCommerce Software Solutions Users
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: categories
   label: Categories
