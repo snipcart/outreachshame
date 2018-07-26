@@ -1,6 +1,6 @@
 baseurl = "https://frosty-meitner-57183d.netlify.com/"
 title = "Outreach Shame"
-theme = "NEDERBURG"
+theme = "nederburg"
 languageCode = "en-us"
 
 disqusShortname = ""
